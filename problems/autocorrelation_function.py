@@ -7,7 +7,7 @@ r_k = Σ_(t=0)^(n−k−1) (x_t − x̄)(x_(t+k) − x̄) / Σ_(t=0)^(n−1) (x_
 and x̄ is the mean of the whole series. The series is not constant.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-autocorrelation-function?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-autocorrelation-function?utm_source=github&utm_medium=repo
 """
 import numpy as np
 def autocorrelation(x, max_lag):

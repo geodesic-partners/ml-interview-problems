@@ -7,7 +7,7 @@ L = −log σ(s) − Σ_j log σ(−s_j).
 Return `[L, dL/dv, dL/du, dL/dU_neg]`, the last a k × d list. Dot products may reach ±1000.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-negative-sampling?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-negative-sampling?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

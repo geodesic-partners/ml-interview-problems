@@ -3,7 +3,7 @@
 Given queries `Q` and keys `K` (both n × d, no zero rows) and a temperature `tau` > 0: normalise every row to unit length, form the logits L_(ij) = q̂_i·k̂_j / τ, and return the mean over i of log Σ_j exp(L_(ij)) − L_(ii). Key i is the positive for query i; the other keys are its negatives.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-info-nce-loss?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-info-nce-loss?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

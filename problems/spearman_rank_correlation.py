@@ -3,7 +3,7 @@
 Given two equal-length lists `x` and `y`, neither constant, return Spearman's rank correlation: replace each list by its ranks, giving tied values the average of the ranks they span, and return the Pearson correlation of the two rank vectors.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-spearman-rank-correlation?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-spearman-rank-correlation?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

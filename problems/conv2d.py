@@ -3,7 +3,7 @@
 Given a single-channel `image` (H × W) and a `kernel` (k_h × k_w), pad the image with `padding` zeros on every side, then slide the kernel with step `stride` in both directions. Each output entry is the sum of the elementwise product of the kernel with the window under it (no kernel flip). Return the output, of size ⌊(H + 2p − k_h)/s⌋ + 1 by ⌊(W + 2p − k_w)/s⌋ + 1.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-conv2d?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-conv2d?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

@@ -9,7 +9,7 @@ For each step in `steps` (0-based), return the learning rate:
 The arguments are `steps, base_lr, min_lr, warmup, total`, with 0 ≤ warmup < total.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-learning-rate-schedule?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-learning-rate-schedule?utm_source=github&utm_medium=repo
 """
 import math
 

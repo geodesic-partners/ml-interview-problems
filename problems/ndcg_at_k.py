@@ -9,7 +9,7 @@
         - Return DCG@k / IDCG@k, or 0.0 if IDCG@k is 0. If k exceeds the list length, use the whole list.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-ndcg-at-k?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-ndcg-at-k?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

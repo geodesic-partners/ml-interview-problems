@@ -3,7 +3,7 @@
 Given predicted probabilities `p` (each in [0, 1]), binary labels `y` and a number of bins `m`, put each prediction in bin b = min(⌊p·m⌋, m − 1), so the bins are [0, 1/m), [1/m, 2/m), …, with the last bin also containing 1. For every non-empty bin, take the absolute difference between the mean label and the mean prediction, weight it by the bin's share of all predictions, and return the sum.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-expected-calibration-error?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-expected-calibration-error?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

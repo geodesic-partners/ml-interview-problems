@@ -9,7 +9,7 @@ Compute one GRU step in PyTorch's convention. Inputs: `x` (length d), `h` (lengt
 Return h′ as a list.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-gru-cell?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-gru-cell?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

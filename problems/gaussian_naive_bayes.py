@@ -11,7 +11,7 @@ Fit a Gaussian naive Bayes model on `X_train` (n × d) with integer labels `y_tr
 Every feature varies within every class in the tests.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-gaussian-naive-bayes?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-gaussian-naive-bayes?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

@@ -3,7 +3,7 @@
 Given a list of real numbers `x` (logits), return the list of softmax probabilities `p`, where p_i = e^(x_i) / Σ_j e^(x_j). Your function must return finite, correct values for any finite input, including logits in the thousands.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-stable-softmax?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-stable-softmax?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

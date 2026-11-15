@@ -11,7 +11,7 @@ Given data `X` (n × d) and `k` ≤ min(n, d), return `[components, projected]`:
 The tests guarantee the top k variances are distinct.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-pca?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-pca?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

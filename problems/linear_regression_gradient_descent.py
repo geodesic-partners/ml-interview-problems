@@ -5,7 +5,7 @@ Fit ŷ = Xw + b by batch gradient descent on the mean squared error L = (1/n) Σ
 Return the final parameters as a list `[w₁, …, w_d, b]`.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-linear-regression-gradient-descent?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-linear-regression-gradient-descent?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

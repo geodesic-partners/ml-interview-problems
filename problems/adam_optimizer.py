@@ -7,7 +7,7 @@ Starting from parameters `theta`, apply one Adam step for each gradient vector i
 with m and v starting at zero. Return the final parameters.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-adam-optimizer?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-adam-optimizer?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

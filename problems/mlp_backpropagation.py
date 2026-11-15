@@ -5,7 +5,7 @@ For the network A = XW1 + b1, H = max(0, A), Z = HW2 + b2 and the loss L = −(1
 The tests are generated so that no hidden pre-activation is exactly zero.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-mlp-backpropagation?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-mlp-backpropagation?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

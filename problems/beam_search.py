@@ -9,7 +9,7 @@ Tokens are 0 to V − 1. `start[v]` is the log-probability that a sequence begin
 "Best" means highest score; among equal scores, the lexicographically smaller sequence wins. Return `[sequence, score]` for the best sequence after the last step.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-beam-search?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-beam-search?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

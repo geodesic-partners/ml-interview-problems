@@ -3,7 +3,7 @@
 Given true labels `y_true` and predictions `y_pred` (integers), let the classes be every label that appears in either list. For each class c, F1 = 2TP / (2TP + FP + FN), counting TP, FP and FN for c against all other classes. Return the unweighted mean of the per-class F1 scores.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-macro-f1?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-macro-f1?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

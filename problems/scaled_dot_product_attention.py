@@ -3,7 +3,7 @@
 Given queries `Q` (n × d), keys `K` (m × d) and values `V` (m × d_v), return softmax(QKᵀ/√d)V as an n × d_v matrix, with the softmax over each row. If `causal` is true (then n = m), query i may only attend to keys j ≤ i.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-scaled-dot-product-attention?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-scaled-dot-product-attention?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

@@ -5,7 +5,7 @@ Given a design matrix `X` (n × p, full column rank, n > p; include a column of 
 Estimate the error variance as RSS / (n − p). The fit is never exact in the tests.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-ols-standard-errors?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-ols-standard-errors?utm_source=github&utm_medium=repo
 """
 import numpy as np
 def ols_inference(X, y):

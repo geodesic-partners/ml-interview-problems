@@ -3,7 +3,7 @@
 Given a batch `X` (N × D) and parameters `W1` (D × H), `b1` (H), `W2` (H × C), `b2` (C), return the N × C matrix of class probabilities P = softmax(max(0, XW1 + b1)W2 + b2), with the softmax taken over each row.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-mlp-forward-pass?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-mlp-forward-pass?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

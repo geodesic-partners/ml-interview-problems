@@ -5,7 +5,7 @@ You are given a batch of logits `logits` of shape (N, C) and integer class label
 The function must stay finite for logits of any size.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-cross-entropy-from-logits?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-cross-entropy-from-logits?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

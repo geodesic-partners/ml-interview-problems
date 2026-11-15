@@ -7,7 +7,7 @@ Given logits `z` and labels `y` (each 0 or 1) of the same length, return the mea
 as a float. It must be accurate for |z| up to 10⁴, where σ(z) rounds to exactly 0 or 1.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-bce-with-logits?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-bce-with-logits?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

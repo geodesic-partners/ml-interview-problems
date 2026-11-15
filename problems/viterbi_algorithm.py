@@ -5,7 +5,7 @@ A hidden Markov model has S states with initial probabilities `start` (length S)
 All probabilities are positive, and the best path is unique in the tests.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-viterbi-algorithm?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-viterbi-algorithm?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

@@ -7,7 +7,7 @@ Given a query `q` (length d, not all zero) and a matrix `M` (n × d), return the
         - Similarities are compared after rounding to 12 decimal places; equal values are ordered by row index, lower first.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-cosine-top-k?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-cosine-top-k?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

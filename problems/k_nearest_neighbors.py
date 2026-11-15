@@ -9,7 +9,7 @@ Given training points `X_train` (n × d) with integer labels `y_train`, predict 
 Coordinates are integers, so equal distances are exactly equal.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-k-nearest-neighbors?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-k-nearest-neighbors?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

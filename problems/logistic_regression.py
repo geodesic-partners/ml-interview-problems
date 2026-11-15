@@ -7,7 +7,7 @@ Train p = σ(Xw + b) by batch gradient descent on
 starting from w = 0, b = 0, for `steps` iterations with learning rate `lr`. The bias is not penalised. Compute both gradients from the current parameters, then update both. Return `[w₁, …, w_d, b]`. Logits in the tests can exceed 700 in magnitude.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-logistic-regression?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-logistic-regression?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

@@ -3,7 +3,7 @@
 Given activations `X`, a 0/1 `mask` of the same shape (1 keeps a unit), the drop probability `p` and the upstream gradient `dout`, return `[out, dX]` for inverted dropout in training mode: out = X ⊙ mask / (1 − p), and dX the gradient of the loss with respect to X.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-inverted-dropout?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-inverted-dropout?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

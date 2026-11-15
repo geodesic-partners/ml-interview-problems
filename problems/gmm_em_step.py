@@ -9,7 +9,7 @@ A 1-D Gaussian mixture has weights `pi`, means `mu` and variances `var` (each of
         - **loglik:** Σ_i log Σ_k π_kN(x_i; μ_k, σ²_k), under the parameters you were given.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-gmm-em-step?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-gmm-em-step?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

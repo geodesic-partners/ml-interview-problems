@@ -9,7 +9,7 @@ Compute one step of an LSTM. Inputs: `x` (length d), `h` and `c` (length H), `W`
 Return `[h′, c′]`. Pre-activations can be large in either direction; the sigmoid must not overflow.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-lstm-cell?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-lstm-cell?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

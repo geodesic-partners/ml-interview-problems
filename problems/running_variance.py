@@ -5,7 +5,7 @@ Values arrive one at a time in `xs`. After each value, record `[mean, variance]`
 Use O(1) memory beyond the output: you may not keep the values. The answer must be accurate for values of size 10⁹ that differ by single units.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-running-variance?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-running-variance?utm_source=github&utm_medium=repo
 """
 def running_stats(xs):
     # Return [[mean, variance], ...], one record after each value.

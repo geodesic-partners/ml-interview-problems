@@ -11,7 +11,7 @@ Given a batch `X` (N × D, N ≥ 2), parameters `gamma`, `beta`, and running est
 These are PyTorch's conventions for BatchNorm1d in training mode.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-batch-normalization?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-batch-normalization?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

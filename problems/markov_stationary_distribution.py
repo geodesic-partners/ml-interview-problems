@@ -3,7 +3,7 @@
 Given a row-stochastic transition matrix `P` (n × n, each row sums to 1) of an irreducible, aperiodic Markov chain, return its stationary distribution π: the unique probability vector with πP = π.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-markov-stationary-distribution?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-markov-stationary-distribution?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

@@ -3,7 +3,7 @@
 Given a list `grads` of gradient arrays (any shapes) and `max_norm`, compute the total norm N = √(Σ over every element of every array of g²). If max_norm / (N + 10⁻⁶) < 1, multiply every array by that factor; otherwise leave them unchanged. Return `[clipped, N]`.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-gradient-clipping?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-gradient-clipping?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

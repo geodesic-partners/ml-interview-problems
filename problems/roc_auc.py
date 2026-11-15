@@ -3,7 +3,7 @@
 Given real `scores` and binary `labels` (1 positive, 0 negative), return the ROC AUC: the probability that a randomly chosen positive has a higher score than a randomly chosen negative, with ties counting one half. There is at least one positive and one negative. Aim for O(n log n).
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-roc-auc?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-roc-auc?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

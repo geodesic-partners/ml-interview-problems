@@ -9,7 +9,7 @@ Run k-means on `X` (n × d) from the starting centroids `init` (k × d):
 Return `[centroids, labels]`, where the labels are the assignment to the returned centroids.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-k-means-clustering?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-k-means-clustering?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

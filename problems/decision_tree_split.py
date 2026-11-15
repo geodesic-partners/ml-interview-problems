@@ -9,7 +9,7 @@ Given features `X` (n × d) and class labels `y`, find the split "x_f ≤ t goes
         - Return `[feature, threshold, impurity]`. If no feature has two distinct values, return `[-1, 0.0, G]` with G the impurity of the whole set.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-decision-tree-split?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-decision-tree-split?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

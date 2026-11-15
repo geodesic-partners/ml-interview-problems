@@ -3,7 +3,7 @@
 Given `X` (N × D), and `gamma`, `beta` of length D, return Y with Y_n = γ ⊙ (X_n − μ_n) / √(σ²_n + eps) + β, where μ_n and σ²_n are the mean and the biased variance (divide by D) of row n.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-layer-normalization?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-layer-normalization?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

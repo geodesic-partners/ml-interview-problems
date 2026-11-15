@@ -3,7 +3,7 @@
 Given a design matrix `X` (n × d), targets `y` (length n) and a penalty `lam` ≥ 0, return the weights w that minimise ‖Xw − y‖² + lam·‖w‖². There is no intercept. When lam = 0 the tests guarantee XᵀX is invertible.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-ridge-regression?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-ridge-regression?utm_source=github&utm_medium=repo
 """
 import numpy as np
 

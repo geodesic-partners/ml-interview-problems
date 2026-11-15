@@ -3,7 +3,7 @@
 Two groups of integers, `a` and `b`. Under the null hypothesis the group labels are exchangeable. Consider every way of choosing len(a) of the pooled values to form a new first group, the rest forming the second. Return the fraction of these relabellings whose absolute difference in group means is at least the observed absolute difference |mean(a) − mean(b)|. The observed labelling is one of them.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-permutation-test?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-permutation-test?utm_source=github&utm_medium=repo
 """
 from itertools import combinations
 def permutation_p_value(a, b):

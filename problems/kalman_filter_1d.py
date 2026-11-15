@@ -5,7 +5,7 @@ A level x_t follows a random walk: x_t = x_(t−1) + w_t with w_t ~ N(0, q). You
 Process `ys` in order. After each observation, record `[mean, variance]` of the level given everything seen so far. There is no prediction step before the first observation. Return the records.
 
 Hints, the reference solution and a live editor:
-https://geodesicpartners.co.uk/ml-kalman-filter-1d?utm_source=github&utm_medium=repo
+https://academicquant.co.uk/ml-kalman-filter-1d?utm_source=github&utm_medium=repo
 """
 def kalman_filter(ys, q, r, m0, p0):
     # Return [[mean, variance], ...], one record after each observation.
